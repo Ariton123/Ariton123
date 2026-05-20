@@ -11,6 +11,12 @@ Most of my current work combines:
 
 ---
 
+## Community & Initiatives
+
+I am also co-founding Creative Core, a Digital Art & Game Development Association legally based in Ohrid, North Macedonia, focused on creative collaboration, technical growth, and community development. Creative Core was founded in May 2026.
+
+---
+
 ## Current Main Project
 
 ### Chrono-Scientist: Bones of Meaning
