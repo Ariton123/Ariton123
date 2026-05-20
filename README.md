@@ -47,7 +47,7 @@ The game is being developed as part of my Master's thesis and focuses on interac
 
 ## Current Goals for 2026
 
-- Finish the Master degree
+- Finish the Master's degree
 - Publish a very specific research paper (book chapter) called
     "The Reflex Ceiling:
     Investigating Peak Cognitive Limits and Reaction-Time Decline in Esports Players"
