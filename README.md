@@ -1,6 +1,8 @@
 # Hi, I'm Ariton Verush 👋
 
-I'm a Master's student in Computer Science at the University of Bern who enjoys building games, interactive systems, and research-driven projects.
+I'm a Computer Science graduate from the University of Bern with interests in game development, Human-Computer Interaction (HCI), interactive systems, and research-driven software engineering.
+
+My work spans educational games, experimental engineering projects, socio-technical systems, and interdisciplinary research, with three published arXiv papers and an engineering portfolio documenting projects from both academia and personal development.
 
 Most of my current work combines:
 - 🎮 Game Development
@@ -17,7 +19,7 @@ I am also co-founding Creative Core, a Digital Art & Game Development Associatio
 
 ---
 
-## Current Main Project
+## Featured Project
 
 ### Chrono-Scientist: Bones of Meaning
 
@@ -29,7 +31,9 @@ The project combines:
 - Anatomy & Biology
 - Archaeology & History
 
-The game is being developed as part of my Master's thesis and focuses on interactive learning through exploration, drag-and-drop mechanics, and narrative-based progression inside a museum-inspired environment.
+The game was developed as part of my Master's thesis in Computer Science at the University of Bern, which I successfully defended in June 2026.
+
+The browser version is available on itch.io for demonstration and portfolio purposes.
 
 ---
 
@@ -45,17 +49,27 @@ The game is being developed as part of my Master's thesis and focuses on interac
   
 ---
 
+## Publications
+
+- **A Benchmarking Framework for Multimodal User Interface Toolkits: Comparing Modality Coverage, Developer Workflow, and Experimental Support**  
+  *arXiv, 2026*
+
+- **Security and Human-Centered Assessment of BACnet-Controlled DALI Infrastructure in an Educational Building Automation Testbed**  
+  *arXiv, 2026*
+
+- **Balanced Workforce: Governance-by-Design for Privacy-Preserving Inter-Firm Workforce Leasing**  
+  *arXiv, 2026*
+
+  ---
+
 ## Current Goals for 2026
 
-- Finish the Master's degree
-- Publish a very specific research paper (book chapter) called
-    "The Reflex Ceiling:
-    Investigating Peak Cognitive Limits and Reaction-Time Decline in Esports Players"
-- Build publicly through consistent commits
+- Continue my professional career in software engineering, game development, or Human-Computer Interaction
+- Continue publishing technical and academic research
 - Expand my engineering and research portfolio
-- Publish technical and academic work
-- Improve as a game developer and systems engineer
-- Continue exploring the intersection between technology, learning, and interaction
+- Build publicly through consistent GitHub contributions
+- Continue developing educational and interactive systems
+- Further explore cognitive performance and esports research
 
 ---
 
